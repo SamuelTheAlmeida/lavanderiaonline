@@ -5,10 +5,7 @@
  */
 package com.ufpr.tads.model;
 
-/**
- *
- * @author s123
- */
+
 class TipoRoupaBean {
     
 }
